@@ -1,0 +1,20 @@
+
+.rectangle{
+    
+    /*text-align: justify;*/
+    
+    width: 500px;
+    height: 500px;
+    box-sizing: border-box;
+    border: black solid 1px;
+    border-radius: 10px;
+}
+#board{
+    display: flex;
+    margin: 0 auto;
+    width: 500px;
+    flex-wrap: wrap;
+}
+#form{
+    text-align: center;
+}
